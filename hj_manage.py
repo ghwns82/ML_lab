@@ -11,7 +11,7 @@ if len(sys.argv)>2:
 else:
     datetime_format = "%y%m%d"
     commit_date =datetime.datetime.strftime(datetime.datetime.today(), datetime_format)
-    commit_m = "added_"+commit_date
+    commit_m = "editted_"+commit_date
 
 
 
