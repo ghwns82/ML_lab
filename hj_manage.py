@@ -15,7 +15,7 @@ else:
 
 
 
-cmd = f'cd {cmd_root_dir}'
+cmd = 'cd .'
 if len(sys.argv)>1:
     if sys.argv[1] == 'list':
         cmd += f'&& explorer.exe .'     
