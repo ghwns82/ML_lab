@@ -1,3 +1,0 @@
-package: resistor.color.code.tronisoft
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.FOREGROUND_SERVICE'

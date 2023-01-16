@@ -1,2 +1,0 @@
-package: net.sehri.era
-uses-permission: name='android.permission.INTERNET'

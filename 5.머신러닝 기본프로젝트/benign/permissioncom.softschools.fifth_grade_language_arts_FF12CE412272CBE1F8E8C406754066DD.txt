@@ -1,7 +1,0 @@
-package: com.softschools.fifth_grade_language_arts
-uses-permission: name='com.android.vending.BILLING'
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
-uses-permission: name='android.permission.READ_PHONE_STATE'
-uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'

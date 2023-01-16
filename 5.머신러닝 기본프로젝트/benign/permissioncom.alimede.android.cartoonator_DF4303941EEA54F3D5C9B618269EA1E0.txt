@@ -1,5 +1,0 @@
-package: com.alimede.android.cartoonator
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.VIBRATE'
-uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'

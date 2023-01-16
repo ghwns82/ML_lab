@@ -1,9 +1,0 @@
-package: com.selfydraw
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_WIFI_STATE'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.VIBRATE'
-uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
-uses-permission-sdk-23: name='android.permission.READ_EXTERNAL_STORAGE'
-uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
-uses-permission-sdk-23: name='android.permission.WRITE_EXTERNAL_STORAGE'

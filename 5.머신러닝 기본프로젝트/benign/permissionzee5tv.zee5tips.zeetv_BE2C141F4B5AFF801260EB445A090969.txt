@@ -1,3 +1,0 @@
-package: zee5tv.zee5tips.zeetv
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

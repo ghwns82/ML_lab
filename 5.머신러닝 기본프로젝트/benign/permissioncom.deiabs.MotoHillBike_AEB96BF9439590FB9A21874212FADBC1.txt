@@ -1,7 +1,0 @@
-package: com.deiabs.MotoHillBike
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.WAKE_LOCK'
-permission: com.deiabs.MotoHillBike.permission.C2D_MESSAGE
-uses-permission: name='com.google.android.c2dm.permission.RECEIVE'
-uses-permission: name='com.deiabs.MotoHillBike.permission.C2D_MESSAGE'

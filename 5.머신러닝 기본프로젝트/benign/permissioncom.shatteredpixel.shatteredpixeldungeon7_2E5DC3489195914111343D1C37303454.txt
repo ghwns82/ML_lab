@@ -1,4 +1,0 @@
-package: com.shatteredpixel.shatteredpixeldungeon7
-uses-permission: name='android.permission.VIBRATE'
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

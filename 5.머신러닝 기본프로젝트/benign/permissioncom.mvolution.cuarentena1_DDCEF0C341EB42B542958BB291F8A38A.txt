@@ -1,2 +1,0 @@
-package: com.mvolution.cuarentena1
-uses-permission: name='com.android.vending.BILLING'

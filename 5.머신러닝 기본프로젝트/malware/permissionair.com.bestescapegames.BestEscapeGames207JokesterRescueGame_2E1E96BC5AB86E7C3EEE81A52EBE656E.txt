@@ -1,3 +1,0 @@
-package: air.com.bestescapegames.BestEscapeGames207JokesterRescueGame
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

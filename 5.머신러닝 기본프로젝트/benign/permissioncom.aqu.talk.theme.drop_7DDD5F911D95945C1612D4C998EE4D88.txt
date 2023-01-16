@@ -1,2 +1,0 @@
-package: com.aqu.talk.theme.drop
-uses-permission: name='com.kakao.talk.v2.theme'

@@ -1,4 +1,0 @@
-package: air.com.dw.anger
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.DISABLE_KEYGUARD'
-uses-permission: name='android.permission.WAKE_LOCK'

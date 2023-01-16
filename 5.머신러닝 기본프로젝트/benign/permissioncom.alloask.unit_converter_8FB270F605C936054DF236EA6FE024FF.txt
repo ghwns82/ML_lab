@@ -1,3 +1,0 @@
-package: com.alloask.unit_converter
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.INTERNET'

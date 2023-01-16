@@ -1,7 +1,0 @@
-package: com.retro.retrobox_titanium_ghostofsparta_a
-uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
-uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
-uses-permission: name='android.permission.VIBRATE'
-uses-permission: name='android.permission.WAKE_LOCK'
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

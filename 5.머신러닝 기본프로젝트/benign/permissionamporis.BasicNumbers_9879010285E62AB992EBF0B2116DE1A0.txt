@@ -1,3 +1,0 @@
-package: amporis.BasicNumbers
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'

@@ -1,3 +1,0 @@
-package: com.bunggogames.astroblaster
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.INTERNET'

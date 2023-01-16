@@ -1,3 +1,0 @@
-package: com.dianoxgames.particle
-uses-permission: name='android.permission.VIBRATE'
-uses-permission: name='android.permission.INTERNET'

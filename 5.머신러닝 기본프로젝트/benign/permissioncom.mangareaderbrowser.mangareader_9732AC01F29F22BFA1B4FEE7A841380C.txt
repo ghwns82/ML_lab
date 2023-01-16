@@ -1,6 +1,0 @@
-package: com.mangareaderbrowser.mangareader
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='com.android.setting.permission.ALLSHARE_CAST_SERVICE'
-uses-permission: name='android.permission.CHANGE_WIFI_STATE'
-uses-permission: name='android.permission.ACCESS_WIFI_STATE'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

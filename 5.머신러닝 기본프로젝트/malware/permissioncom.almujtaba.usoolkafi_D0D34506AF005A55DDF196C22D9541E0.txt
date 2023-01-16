@@ -1,2 +1,0 @@
-package: com.almujtaba.usoolkafi
-uses-permission: name='android.permission.WAKE_LOCK'

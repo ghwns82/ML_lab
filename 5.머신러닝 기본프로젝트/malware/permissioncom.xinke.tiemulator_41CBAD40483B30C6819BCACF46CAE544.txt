@@ -1,4 +1,0 @@
-package: com.xinke.tiemulator
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.VIBRATE'

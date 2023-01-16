@@ -1,7 +1,0 @@
-package: com.infor.s3.inventory
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_COARSE_LOCATION'
-uses-permission: name='android.permission.ACCESS_FINE_LOCATION'
-uses-permission: name='android.permission.CAMERA'
-uses-permission: name='android.permission.FLASHLIGHT'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

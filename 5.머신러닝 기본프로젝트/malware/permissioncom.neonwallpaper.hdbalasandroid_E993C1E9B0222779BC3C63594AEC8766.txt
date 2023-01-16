@@ -1,3 +1,0 @@
-package: com.neonwallpaper.hdbalasandroid
-uses-permission: name='android.permission.SET_WALLPAPER'
-uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'

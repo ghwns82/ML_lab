@@ -1,4 +1,0 @@
-package: com.absinthe.libchecker
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.QUERY_ALL_PACKAGES'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

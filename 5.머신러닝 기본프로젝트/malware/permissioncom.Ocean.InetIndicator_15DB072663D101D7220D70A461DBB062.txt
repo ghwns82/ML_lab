@@ -1,3 +1,0 @@
-package: com.Ocean.InetIndicator
-uses-permission: name='android.permission.RECEIVE_BOOT_COMPLETED'
-uses-permission: name='android.permission.FOREGROUND_SERVICE'

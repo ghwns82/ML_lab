@@ -1,2 +1,0 @@
-package: com.BinaryShape.ProjectRTSLite
-uses-permission: name='android.permission.INTERNET'

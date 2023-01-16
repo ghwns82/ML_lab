@@ -1,3 +1,0 @@
-package: com.top.playoficial
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

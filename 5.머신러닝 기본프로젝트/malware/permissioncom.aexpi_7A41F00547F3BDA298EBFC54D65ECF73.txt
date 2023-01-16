@@ -1,2 +1,0 @@
-package: com.aexpi
-uses-permission: name='android.permission.INTERNET'

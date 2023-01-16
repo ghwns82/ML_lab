@@ -1,6 +1,0 @@
-package: com.nikovapa.far.speed
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.GET_ACCOUNTS'
-uses-permission: name='android.permission.AUTHENTICATE_ACCOUNTS'
-uses-permission: name='android.permission.WAKE_LOCK'

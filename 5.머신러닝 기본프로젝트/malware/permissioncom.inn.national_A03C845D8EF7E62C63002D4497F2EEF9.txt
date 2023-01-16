@@ -1,7 +1,0 @@
-package: com.inn.national
-uses-permission: name='android.permission.ACCESS_FINE_LOCATION'
-uses-permission: name='android.permission.ACCESS_COARSE_LOCATION'
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.ACCESS_WIFI_STATE'
-uses-permission: name='android.permission.ACCESS_MOCK_LOCATION'

@@ -1,6 +1,0 @@
-package: com.s3.ezitakeaway
-uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
-uses-permission: name='android.permission.VIBRATE'
-uses-permission: name='android.permission.INTERNET'
-uses-permission: name='android.permission.WAKE_LOCK'
-uses-permission: name='com.google.android.c2dm.permission.RECEIVE'
