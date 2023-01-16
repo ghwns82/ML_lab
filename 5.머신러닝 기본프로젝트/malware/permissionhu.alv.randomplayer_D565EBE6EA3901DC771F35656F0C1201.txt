@@ -1,0 +1,4 @@
+package: hu.alv.randomplayer
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.FOREGROUND_SERVICE'

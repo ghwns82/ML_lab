@@ -1,0 +1,8 @@
+package: air.nl.virtuwijs.virtuwijsapp
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.DISABLE_KEYGUARD'
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.RECORD_AUDIO'
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.ACCESS_WIFI_STATE'

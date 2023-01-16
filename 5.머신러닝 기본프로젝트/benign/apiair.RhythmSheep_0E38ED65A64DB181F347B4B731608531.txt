@@ -1,0 +1,4 @@
+package: air.RhythmSheep
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.INTERNET'

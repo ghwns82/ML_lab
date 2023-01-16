@@ -1,0 +1,10 @@
+package: mp3.musicplayer.hdplayer.mp3player.mp3sound
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.BROADCAST_STICKY'
+uses-permission: name='android.permission.WRITE_SETTINGS'
+uses-permission: name='android.permission.RECEIVE_BOOT_COMPLETED'
+uses-permission: name='android.permission.FOREGROUND_SERVICE'

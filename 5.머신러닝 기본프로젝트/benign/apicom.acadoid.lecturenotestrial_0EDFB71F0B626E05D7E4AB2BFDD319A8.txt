@@ -1,0 +1,2 @@
+package: com.acadoid.lecturenotestrial
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'

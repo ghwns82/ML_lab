@@ -1,0 +1,2 @@
+package: air.com.Girlsgames.ccleaningandarranging
+uses-permission: name='android.permission.INTERNET'

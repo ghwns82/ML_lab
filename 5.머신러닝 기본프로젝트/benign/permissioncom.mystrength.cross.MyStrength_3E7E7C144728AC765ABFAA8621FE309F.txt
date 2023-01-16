@@ -1,0 +1,12 @@
+package: com.mystrength.cross.MyStrength
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.ACCESS_WIFI_STATE'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.REQUEST_INSTALL_PACKAGES'
+uses-permission: name='android.permission.DOWNLOAD_WITHOUT_NOTIFICATION'
+uses-permission: name='com.google.android.c2dm.permission.RECEIVE'
+permission: com.mystrength.cross.MyStrength.permission.C2D_MESSAGE
+uses-permission: name='com.mystrength.cross.MyStrength.permission.C2D_MESSAGE'

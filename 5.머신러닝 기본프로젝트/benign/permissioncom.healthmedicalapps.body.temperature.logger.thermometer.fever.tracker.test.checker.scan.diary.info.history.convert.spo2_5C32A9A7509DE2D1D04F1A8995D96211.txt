@@ -1,0 +1,4 @@
+package: com.healthmedicalapps.body.temperature.logger.thermometer.fever.tracker.test.checker.scan.diary.info.history.convert.spo2
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.VIBRATE'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

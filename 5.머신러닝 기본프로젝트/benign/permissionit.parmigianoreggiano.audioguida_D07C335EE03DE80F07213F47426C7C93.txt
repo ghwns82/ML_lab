@@ -1,0 +1,14 @@
+package: it.parmigianoreggiano.audioguida
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='com.google.android.c2dm.permission.RECEIVE'
+uses-permission: name='com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE'
+uses-permission: name='it.parmigianoreggiano.audioguida.permission.MAPS_RECEIVE'
+uses-permission: name='android.permission.ACCESS_COARSE_LOCATION'
+uses-permission: name='android.permission.ACCESS_FINE_LOCATION'
+uses-permission: name='com.google.android.providers.gsf.permission.READ_GSERVICES'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='com.up.revolution.guidacaseifici.permission.MAPS_RECEIVE'
+uses-permission: name='android.permission.ACCESS_WIFI_STATE'
+permission: com.up.revolution.guidacaseifici.permission.MAPS_RECEIVE

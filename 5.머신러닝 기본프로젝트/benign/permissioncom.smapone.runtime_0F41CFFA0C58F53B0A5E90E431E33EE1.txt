@@ -1,0 +1,14 @@
+package: com.smapone.runtime
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.ACCESS_WIFI_STATE'
+uses-permission: name='android.permission.ACCESS_FINE_LOCATION'
+uses-permission: name='android.permission.ACCESS_COARSE_LOCATION'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='com.google.android.c2dm.permission.RECEIVE'
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.FLASHLIGHT'
+uses-permission: name='android.permission.RECORD_AUDIO'
+uses-permission: name='android.permission.READ_CONTACTS'
+permission: com.smapone.runtime.permission.C2D_MESSAGE
+uses-permission: name='com.smapone.runtime.permission.C2D_MESSAGE'

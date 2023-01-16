@@ -1,0 +1,17 @@
+package: com.ofss.fcdb.mobile.android.phone.boc.launcher
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.ACCESS_FINE_LOCATION'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.ACCESS_COARSE_LOCATION'
+uses-permission: name='android.permission.CALL_PHONE'
+uses-permission: name='android.permission.READ_CONTACTS'
+uses-permission: name='android.permission.READ_CONTACTS'
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='android.permission.NFC'
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.READ_PHONE_STATE'
+uses-permission: name='com.google.android.c2dm.permission.RECEIVE'
+permission: com.ofss.fcdb.mobile.android.phone.boc.launcher.permission.C2D_MESSAGE
+uses-permission: name='com.ofss.fcdb.mobile.android.phone.boc.launcher.permission.C2D_MESSAGE'
+uses-permission: name='android.permission.GET_ACCOUNTS'

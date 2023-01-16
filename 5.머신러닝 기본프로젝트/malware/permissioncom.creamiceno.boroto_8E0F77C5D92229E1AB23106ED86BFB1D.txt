@@ -1,0 +1,4 @@
+package: com.creamiceno.boroto
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

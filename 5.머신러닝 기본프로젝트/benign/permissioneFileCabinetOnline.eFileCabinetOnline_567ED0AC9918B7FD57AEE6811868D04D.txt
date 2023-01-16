@@ -1,0 +1,9 @@
+package: eFileCabinetOnline.eFileCabinetOnline
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.ACCESS_WIFI_STATE'
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.USE_FINGERPRINT'
+uses-permission: name='com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY'

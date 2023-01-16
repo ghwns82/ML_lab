@@ -1,0 +1,2 @@
+package: go.fuck.limi
+uses-permission: name='android.permission.INTERNET'

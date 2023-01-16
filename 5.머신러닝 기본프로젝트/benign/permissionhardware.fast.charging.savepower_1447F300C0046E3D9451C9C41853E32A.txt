@@ -1,0 +1,5 @@
+package: hardware.fast.charging.savepower
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.KILL_BACKGROUND_PROCESSES'
+uses-permission: name='android.permission.WRITE_SETTINGS'

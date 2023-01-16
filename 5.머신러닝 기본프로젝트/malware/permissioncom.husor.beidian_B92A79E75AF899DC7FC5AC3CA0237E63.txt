@@ -1,0 +1,23 @@
+package: com.husor.beidian
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.ACCESS_WIFI_STATE'
+uses-permission: name='android.permission.ACCESS_FINE_LOCATION'
+uses-permission: name='android.permission.ACCESS_COARSE_LOCATION'
+uses-permission: name='android.permission.INSTALL_SHORTCUT'
+uses-permission: name='com.android.launcher.permission.INSTALL_SHORTCUT'
+uses-permission: name='com.huawei.android.launcher.permission.CHANGE_BADGE '
+uses-permission: name='android.permission.SYSTEM_ALERT_WINDOW'
+uses-permission: name='android.permission.VIBRATE'
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='android.permission.CHANGE_NETWORK_STATE'
+uses-permission: name='android.permission.REQUEST_INSTALL_PACKAGES'
+permission: com.husor.beidian.permission.MIPUSH_RECEIVE
+uses-permission: name='com.husor.beidian.permission.MIPUSH_RECEIVE'
+uses-permission: name='com.coloros.mcs.permission.RECIEVE_MCS_MESSAGE'
+permission: com.husor.beidian.permission.PROCESS_PUSH_MSG
+uses-permission: name='com.husor.beidian.permission.PROCESS_PUSH_MSG'
+uses-permission: name='getui.permission.GetuiService.com.husor.beidian'
+permission: getui.permission.GetuiService.com.husor.beidian

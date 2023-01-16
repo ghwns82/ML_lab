@@ -1,0 +1,2 @@
+package: com.companyname.implicit_linamas
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

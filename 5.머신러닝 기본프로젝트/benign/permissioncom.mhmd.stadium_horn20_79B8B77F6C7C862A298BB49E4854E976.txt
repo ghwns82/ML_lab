@@ -1,0 +1,5 @@
+package: com.mhmd.stadium_horn20
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY'
+uses-permission: name='android.permission.VIBRATE'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

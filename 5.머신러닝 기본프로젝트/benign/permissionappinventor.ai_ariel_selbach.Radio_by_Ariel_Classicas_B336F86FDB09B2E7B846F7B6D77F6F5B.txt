@@ -1,0 +1,6 @@
+package: appinventor.ai_ariel_selbach.Radio_by_Ariel_Classicas
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.VIBRATE'
+uses-permission: name='android.permission.ACCESS_WIFI_STATE'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'

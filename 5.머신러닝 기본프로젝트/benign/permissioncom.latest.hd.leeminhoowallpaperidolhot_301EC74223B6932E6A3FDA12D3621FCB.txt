@@ -1,0 +1,5 @@
+package: com.latest.hd.leeminhoowallpaperidolhot
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.SET_WALLPAPER'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'

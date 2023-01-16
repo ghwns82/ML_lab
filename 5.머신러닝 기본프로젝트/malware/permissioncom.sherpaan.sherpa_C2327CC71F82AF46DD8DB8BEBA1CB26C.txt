@@ -1,0 +1,6 @@
+package: com.sherpaan.sherpa
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.USE_FINGERPRINT'
+uses-permission: name='com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY'
+uses-permission: name='android.permission.VIBRATE'
+uses-permission: name='android.permission.CAMERA'

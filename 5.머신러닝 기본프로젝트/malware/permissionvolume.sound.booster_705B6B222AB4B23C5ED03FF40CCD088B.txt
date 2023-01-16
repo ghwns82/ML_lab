@@ -1,0 +1,6 @@
+package: volume.sound.booster
+uses-permission: name='android.permission.VIBRATE'
+uses-permission: name='android.permission.MODIFY_AUDIO_SETTINGS'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.WAKE_LOCK'

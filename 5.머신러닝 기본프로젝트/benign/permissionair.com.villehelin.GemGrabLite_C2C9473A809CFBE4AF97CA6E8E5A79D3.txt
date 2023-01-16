@@ -1,0 +1,2 @@
+package: air.com.villehelin.GemGrabLite
+uses-permission: name='android.permission.INTERNET'

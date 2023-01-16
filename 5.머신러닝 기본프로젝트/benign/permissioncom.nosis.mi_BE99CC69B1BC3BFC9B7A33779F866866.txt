@@ -1,0 +1,10 @@
+package: com.nosis.mi
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.ACCESS_NETWORK_STATE'
+uses-permission: name='android.permission.WAKE_LOCK'
+uses-permission: name='com.google.android.c2dm.permission.RECEIVE'
+permission: com.nosis.mi.permission.C2D_MESSAGE
+uses-permission: name='com.nosis.mi.permission.C2D_MESSAGE'

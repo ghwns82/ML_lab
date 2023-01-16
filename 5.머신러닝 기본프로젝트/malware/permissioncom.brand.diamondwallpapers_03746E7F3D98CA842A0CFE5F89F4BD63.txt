@@ -1,0 +1,7 @@
+package: com.brand.diamondwallpapers
+uses-permission: name='android.permission.INTERNET'
+uses-permission: name='android.permission.SET_WALLPAPER'
+uses-permission: name='android.permission.WRITE_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.READ_EXTERNAL_STORAGE'
+uses-permission: name='android.permission.CAMERA'
+uses-permission: name='android.permission.GET_ACCOUNTS'
